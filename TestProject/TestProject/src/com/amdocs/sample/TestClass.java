@@ -7,6 +7,8 @@ public class TestClass {
 		
 		System.out.println("Added project to repository");
 		System.out.println("Added directly into web");
+		
+		System.out.println("New line add!");
 
 	}
 
